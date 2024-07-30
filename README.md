@@ -40,7 +40,7 @@ The Fake Product Identification System is designed to offer a transparent and ta
 
 1. **Clone the Repository**: 
    ```bash
-   git clone https://github.com/yourusername/fake-product-identification-system.git
+   git clone https://github.com/Jyothish007/Main-Project.git
    ```
 
 2 **Go to the project folder, open terminal there and run following command to install required node_modules**:-
