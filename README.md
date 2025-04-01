@@ -1,5 +1,5 @@
-# Main-Project
-Fake product identification system
+# Fake product identification system
+Main-Project
 
 ### Fake Product Identification System Using Blockchain
 
